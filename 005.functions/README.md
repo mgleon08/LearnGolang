@@ -1,6 +1,6 @@
-# Functions
+# Functions 函式
 
-- [Functions](#functions)
+- [Functions 函式](#functions-函式)
 	- [函式 function](#函式-function)
 	- [不定參數函式 Variadic Function](#不定參數函式-variadic-function)
 	- [匿名函式 Anonymous Function](#匿名函式-anonymous-function)

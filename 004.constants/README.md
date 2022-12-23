@@ -1,6 +1,6 @@
-# 常數 Constants
+# Constants 常數
 
-- [常數 Constants](#常數-constants)
+- [Constants 常數](#constants-常數)
 	- [宣告](#宣告)
 	- [constants 宣告後就不能 reassign (immutable)](#constants-宣告後就不能-reassign-immutable)
 	- [不能 assign variable 給 constants](#不能-assign-variable-給-constants)
